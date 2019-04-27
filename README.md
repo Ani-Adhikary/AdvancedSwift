@@ -11,3 +11,7 @@ https://www.raywenderlich.com/382-encoding-decoding-and-serialization-in-swift-4
 
 JSON Decoding in Swift with Codable: A Practical Guide <br />
 https://matteomanferdini.com/codable/ <br />
+
+GCD <br />
+https://www.hackingwithswift.com/read/9/overview <br />
+https://www.appcoda.com/grand-central-dispatch/ <br />
