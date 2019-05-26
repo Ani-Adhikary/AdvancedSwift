@@ -15,3 +15,8 @@ https://matteomanferdini.com/codable/ <br />
 GCD <br />
 https://www.hackingwithswift.com/read/9/overview <br />
 https://www.appcoda.com/grand-central-dispatch/ <br />
+
+Dynamic Text-TODO
+========
+
+https://www.raywenderlich.com/5220-dynamic-type
