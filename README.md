@@ -43,5 +43,19 @@ https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2
 # Linkedin Learning
 
 iOS App Development: Design Patterns for Mobile Architecture <br />
-https://www.linkedin.com/learning/ios-app-development-design-patterns-for-mobile-architecture/welcome
+https://www.linkedin.com/learning/ios-app-development-design-patterns-for-mobile-architecture/welcome <br />
 
+iOS Development: Architecture <br />
+https://www.linkedin.com/learning/ios-development-architecture/the-value-in-architecting-your-apps <br />
+
+Learning Functional Programming with Swift <br />
+https://www.linkedin.com/learning/learning-functional-programming-with-swift/welcome <br />
+
+iOS Development: Auto Layout Programmatically <br />
+https://www.linkedin.com/learning/ios-development-auto-layout-programmatically/welcome <br />
+
+iOS Development: Security <br />
+https://www.linkedin.com/learning/ios-development-security/keeping-your-apps-secure <br />
+
+Advanced iOS Development: Working with APIs <br />
+https://www.linkedin.com/learning/advanced-ios-development-working-with-apis/welcome <br />
