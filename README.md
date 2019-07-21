@@ -39,3 +39,9 @@ https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm <br />
 
 Design Patterns on iOS using Swift – Part 1/2 <br />
 https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2
+
+# Linkedin Learning
+
+iOS App Development: Design Patterns for Mobile Architecture <br />
+https://www.linkedin.com/learning/ios-app-development-design-patterns-for-mobile-architecture/welcome
+
