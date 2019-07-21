@@ -28,3 +28,14 @@ https://www.raywenderlich.com/5220-dynamic-type
 
 UIAppearance Tutorial: Getting Started <br />
 https://www.raywenderlich.com/1625-uiappearance-tutorial-getting-started <br />
+
+# Design Patterns
+
+Implementing delegates in Swift, step by step. <br />
+https://medium.com/@jamesrochabrun/implementing-delegates-in-swift-step-by-step-d3211cbac3ef <br />
+
+Design Patterns by Tutorials: MVVM <br />
+https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm <br />
+
+Design Patterns on iOS using Swift – Part 1/2 <br />
+https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2
