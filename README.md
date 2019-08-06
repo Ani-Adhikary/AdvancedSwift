@@ -62,7 +62,7 @@ https://www.linkedin.com/learning/advanced-ios-development-working-with-apis/wel
 
 # Swift Basics
 
-Mutating
+<h2> Mutating </h2>
 
 Methods in SWift <br />
 https://docs.swift.org/swift-book/LanguageGuide/Methods.html#ID239 <br />
