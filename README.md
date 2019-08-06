@@ -59,3 +59,13 @@ https://www.linkedin.com/learning/ios-development-security/keeping-your-apps-sec
 
 Advanced iOS Development: Working with APIs <br />
 https://www.linkedin.com/learning/advanced-ios-development-working-with-apis/welcome <br />
+
+# Swift Basics
+
+Mutating
+
+Methods in SWift <br />
+https://docs.swift.org/swift-book/LanguageGuide/Methods.html#ID239 <br />
+
+Natasha the Robot article <br />
+https://www.natashatherobot.com/mutating-functions-swift-structs/ <br />
