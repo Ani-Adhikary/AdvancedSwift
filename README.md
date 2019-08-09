@@ -69,3 +69,16 @@ https://docs.swift.org/swift-book/LanguageGuide/Methods.html#ID239 <br />
 
 Natasha the Robot article <br />
 https://www.natashatherobot.com/mutating-functions-swift-structs/ <br />
+
+#Security in iOS
+
+<h2> SSL Pinning</h2>
+
+Prevent bypassing of SSL certificate pinning in iOS applications <br />
+https://www.guardsquare.com/en/blog/iOS-SSL-certificate-pinning-bypassing <br />
+
+Preventing Man-in-the-Middle Attacks in iOS with SSL Pinning <br />
+https://www.raywenderlich.com/1484288-preventing-man-in-the-middle-attacks-in-ios-with-ssl-pinning <br />
+
+iOS Development: Security <br />
+https://www.linkedin.com/learning/ios-development-security/keeping-your-apps-secure <br />
