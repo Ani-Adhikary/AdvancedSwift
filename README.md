@@ -70,7 +70,11 @@ https://docs.swift.org/swift-book/LanguageGuide/Methods.html#ID239 <br />
 Natasha the Robot article <br />
 https://www.natashatherobot.com/mutating-functions-swift-structs/ <br />
 
-#Security in iOS
+<h2> Access Control </h2>
+Swift 4— Access Control <br />
+https://medium.com/@abhimuralidharan/swift-3-0-1-access-control-9e71d641a56c <br />
+
+# Security in iOS
 
 <h2> SSL Pinning</h2>
 
