@@ -74,6 +74,12 @@ https://www.natashatherobot.com/mutating-functions-swift-structs/ <br />
 Swift 4— Access Control <br />
 https://medium.com/@abhimuralidharan/swift-3-0-1-access-control-9e71d641a56c <br />
 
+<h2>Class vs Struct </h2>
+Stack is used for static memory allocation and Heap for dynamic memory allocation, both stored in the computer's RAM . For reference types, the reference is stored on the stack while the object it refers to is stored on the heap. For value types, the object itself is stored on the stack. <br />
+
+https://medium.com/@abhimuralidharan/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a <br />
+
+
 # Security in iOS
 
 <h2> SSL Pinning</h2>
