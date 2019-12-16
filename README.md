@@ -95,9 +95,12 @@ https://www.linkedin.com/learning/ios-development-security/keeping-your-apps-sec
 
 # Instruments
 
+Apple Guide<br />
 https://help.apple.com/instruments/mac/current/ <br />
 
-https://stackoverflow.com/questions/51946972/xcode-instruments
+https://stackoverflow.com/questions/51946972/xcode-instruments <br />
+
+https://www.swiftdevjournal.com/measuring-your-apps-memory-usage-with-instruments/ <br />
 
 # Xcode
 
