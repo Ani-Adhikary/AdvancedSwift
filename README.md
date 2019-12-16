@@ -92,3 +92,9 @@ https://www.raywenderlich.com/1484288-preventing-man-in-the-middle-attacks-in-io
 
 iOS Development: Security <br />
 https://www.linkedin.com/learning/ios-development-security/keeping-your-apps-secure <br />
+
+# Instruments
+
+https://help.apple.com/instruments/mac/current/ <br />
+
+https://stackoverflow.com/questions/51946972/xcode-instruments
