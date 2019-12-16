@@ -98,3 +98,8 @@ https://www.linkedin.com/learning/ios-development-security/keeping-your-apps-sec
 https://help.apple.com/instruments/mac/current/ <br />
 
 https://stackoverflow.com/questions/51946972/xcode-instruments
+
+# Xcode
+
+<h2>Schemes and Targets </h2>
+https://help.apple.com/xcode/mac/current/#/devdc0193470 <br />
