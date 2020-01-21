@@ -111,3 +111,15 @@ https://help.apple.com/xcode/mac/current/#/devdc0193470 <br />
 
 <h3>App Thinning</h3>
 https://www.raywenderlich.com/3439722-app-thinning
+
+<h3>Create a Drawing App With PencilKit</h3>
+https://www.raywenderlich.com/6275408-create-a-drawing-app-with-pencilkit
+
+<h3>Create a Splash Screen with SwiftUI</h3>
+https://www.raywenderlich.com/6484760-create-a-splash-screen-with-swiftui
+
+<h3>Reachability in iOS</h3>
+https://www.raywenderlich.com/5963-reachability-in-ios
+
+<h3>Localization</h3>
+https://www.raywenderlich.com/5039-localization
