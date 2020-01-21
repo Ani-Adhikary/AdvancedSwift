@@ -106,3 +106,8 @@ https://www.swiftdevjournal.com/measuring-your-apps-memory-usage-with-instrument
 
 <h2>Schemes and Targets </h2>
 https://help.apple.com/xcode/mac/current/#/devdc0193470 <br />
+
+# RW Tuts
+
+<h3>App Thinning</h3>
+https://www.raywenderlich.com/3439722-app-thinning
