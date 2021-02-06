@@ -123,3 +123,9 @@ https://www.raywenderlich.com/5963-reachability-in-ios
 
 <h3>Localization</h3>
 https://www.raywenderlich.com/5039-localization
+
+<h2> Memory Management</h2>
+
+<h3> How to detect iOS memory leaks and retain cycles using Xcode’s memory graph debugger </h3>
+
+https://doordash.engineering/2019/05/22/ios-memory-leaks-and-retain-cycle-detection-using-xcodes-memory-graph-debugger/
